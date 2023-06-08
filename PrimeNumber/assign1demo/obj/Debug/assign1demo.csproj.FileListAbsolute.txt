@@ -1,0 +1,8 @@
+D:\KAL CS\2nd year\Sem 2\Visual Programming\Projects\assign1demo\assign1demo\obj\Debug\assign1demo.csproj.AssemblyReference.cache
+D:\KAL CS\2nd year\Sem 2\Visual Programming\Projects\assign1demo\assign1demo\obj\Debug\assign1demo.csproj.SuggestedBindingRedirects.cache
+D:\KAL CS\2nd year\Sem 2\Visual Programming\Projects\assign1demo\assign1demo\obj\Debug\assign1demo.csproj.CoreCompileInputs.cache
+D:\KAL CS\2nd year\Sem 2\Visual Programming\Projects\assign1demo\assign1demo\bin\Debug\assign1demo.exe.config
+D:\KAL CS\2nd year\Sem 2\Visual Programming\Projects\assign1demo\assign1demo\bin\Debug\assign1demo.exe
+D:\KAL CS\2nd year\Sem 2\Visual Programming\Projects\assign1demo\assign1demo\bin\Debug\assign1demo.pdb
+D:\KAL CS\2nd year\Sem 2\Visual Programming\Projects\assign1demo\assign1demo\obj\Debug\assign1demo.exe
+D:\KAL CS\2nd year\Sem 2\Visual Programming\Projects\assign1demo\assign1demo\obj\Debug\assign1demo.pdb
